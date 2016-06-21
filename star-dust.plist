@@ -17,14 +17,14 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>APPicon图标512链接</string></dict>
+<string>http://home.puzhizhuhai.com/img/logo.png</string></dict>
 <dict>
 <key>kind</key>
 <string>display-image</string>
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>APPicon图标57链接</string></dict></array>
+<string>http://home.puzhizhuhai.com/img/logo.png</string></dict></array>
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
