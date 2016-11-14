@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/tofrookie/star-dust/blob/master/star-cloud.ipa</string>
+					<string>https://github.com/tofrookie/star-dust/raw/master/star-dust.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/tofrookie/star-dust/blob/master/avatar.jpg</string>
+					<string>https://github.com/tofrookie/star-dust/raw/master/avatar.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/tofrookie/star-dust/blob/master/avatar.jpg</string>
+					<string>https://github.com/tofrookie/star-dust/raw/master/avatar.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>XQE77W2L23.com.puzhizhuhai.starCloud</string>
+				<string>XQE77W2L23.com.puzhizhuhai.stard</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>starCloudApp</string>
+				<string>普智app</string>
 			</dict>
 		</dict>
 	</array>
